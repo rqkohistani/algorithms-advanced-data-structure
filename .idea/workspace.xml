@@ -27,7 +27,20 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.App" />
+      <module name="algorithms-advanced-data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linearSearch.App" />
       <module name="algorithms-advanced-data-structure" />
@@ -52,11 +65,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
       </list>
@@ -84,33 +99,73 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1599141406090" />
-    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1599141518679">
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1599151268287">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1599141518679" />
-    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1599141518679">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815880" />
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
+    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1599151268287">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1599141518679" />
-    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1599141518679">
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815879" />
+    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
+    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1599151268287">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1599141518679" />
-    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1599141518679">
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815879" />
+    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
+    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1599151268287">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1599141518679" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815880" />
+    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
+    <state width="1323" height="307" key="GridCell.Tab.1.bottom" timestamp="1599151268850">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144816523" />
+    <state width="1323" height="307" key="GridCell.Tab.1.bottom/0.0.1366.736@0.0.1366.736" timestamp="1599151268850" />
+    <state width="1323" height="307" key="GridCell.Tab.1.center" timestamp="1599151268850">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144816523" />
+    <state width="1323" height="307" key="GridCell.Tab.1.center/0.0.1366.736@0.0.1366.736" timestamp="1599151268850" />
+    <state width="1323" height="307" key="GridCell.Tab.1.left" timestamp="1599151268850">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144816523" />
+    <state width="1323" height="307" key="GridCell.Tab.1.left/0.0.1366.736@0.0.1366.736" timestamp="1599151268850" />
+    <state width="1323" height="307" key="GridCell.Tab.1.right" timestamp="1599151268850">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144816523" />
+    <state width="1323" height="307" key="GridCell.Tab.1.right/0.0.1366.736@0.0.1366.736" timestamp="1599151268850" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1599141448390">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1599141448390" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1599140602956">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1599154030194">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1599140602956" />
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599141057993">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1599154030194" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599199871467">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1599141057993" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1599199871467" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/App.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms_advanced_data_structure$App__1_.ic" NAME="App (1) Coverage Results" MODIFIED="1599144811727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>binarySearch.*</FILTER>
+    </SUITE>
   </component>
 </project>
