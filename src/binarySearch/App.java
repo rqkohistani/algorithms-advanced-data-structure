@@ -1,10 +1,13 @@
 package binarySearch;
 
+import java.util.Arrays;
+
 public class App {
 
     public static void main(String[] args) {
-        int []arr={1,2,3,4,5};
-        System.out.println(binarySearch(arr,1));
+        int []arr={6,2,3,4,5};
+        Arrays. sort(arr);
+        System.out.println(binarySearch(arr,6));
         //System.out.println(binarySearch(new int[]{1,2,4,7,9,12},12));
 
 
