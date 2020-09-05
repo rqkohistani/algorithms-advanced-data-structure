@@ -1,0 +1,10 @@
+
+N
+java:S1197"8Move the array designator from the variable to the type.(ÜŠè
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş¡³©ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ Øê
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¾’Å
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§¨Üüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şÎú©øÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

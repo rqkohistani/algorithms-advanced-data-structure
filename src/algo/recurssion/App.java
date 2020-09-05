@@ -7,7 +7,7 @@ public class App {
     public static void main(String[] args) {
        // reduceByOne(3);
         int[]array={4,48,4,34,76,9,3};//no need to sort the array here.
-        System.out.println(recursiveLinearSearch(array,1,4));
+        System.out.println(recursiveLinearSearch(array,1,99));
     }
 
 
@@ -40,16 +40,18 @@ public class App {
      inside the same function, then it is called a recursive call of the function.
      */
     }
-    public static int recursiveLinearSearch(int[] a,int index, int x){
-        if(index> a.length-1){//if evaluates to true, x was not found in the array
+    public static int recursiveLinearSearch(int[] a,int i, int x){
+        //i =index
+        if(i> a.length-1){//if evaluates to true, x was not found in the array
             System.out.println("Not Found: "+x);
             return -1;
-        } else if (a[index] == x) {
+        } else if (a[i] == x) {
             System.out.print("Found: "+x+" : at index: ");
-            return index;
+
+            return i;
         }else {
-            System.out.println("index at : "+ index);//current position of the index
-            return recursiveLinearSearch(a,index+1,x);
+            System.out.println("index at : "+ i);//current position of the index
+            return recursiveLinearSearch(a,i+1,x);// so now i+1 will iterate again
         }
     }
 
