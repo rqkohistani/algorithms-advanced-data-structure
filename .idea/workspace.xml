@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de75d796-a996-4616-8318-de26ac8f93fb" name="Default Changelist" comment="">
+    <list default="true" id="de75d796-a996-4616-8318-de26ac8f93fb" name="Default Changelist" comment="SelectionSort code">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/insertionsort/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/mergesort/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/mergesort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/quickSort/QuickSortApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/selectionsort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36c794dbcf3199ea7ca44093266a7e7b75e2c93a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36c794dbcf3199ea7ca44093266a7e7b75e2c93a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c10df66b373b3b926c950363fca50711146ea93e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c10df66b373b3b926c950363fca50711146ea93e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f31b6d502761cffac782635b1d57f572a480415f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f31b6d502761cffac782635b1d57f572a480415f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/binarySearch/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/binarySearch/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/recurssion/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/recurssion/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,41 +40,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.App (3)">
+  <component name="RunManager" selected="Application.QuickSortApp">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.App" />
+      <option name="MAIN_CLASS_NAME" value="algo.mergesort.App" />
       <module name="algorithms-advanced-data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.recurssion.App" />
-      <module name="algorithms-advanced-data-structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo.recurssion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.binarySearch.App" />
-      <module name="algorithms-advanced-data-structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo.binarySearch.*" />
+          <option name="PATTERN" value="algo.mergesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +60,11 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linearSearch.App" />
+      <option name="MAIN_CLASS_NAME" value="algo.insertionsort.App" />
       <module name="algorithms-advanced-data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linearSearch.*" />
+          <option name="PATTERN" value="algo.insertionsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,30 +72,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.Main" />
+    <configuration name="QuickSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.quickSort.QuickSortApp" />
       <module name="algorithms-advanced-data-structure" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.quickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.selectionsort.SelectionSort" />
+      <module name="algorithms-advanced-data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.selectionsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.TestClass" />
+      <module name="algorithms-advanced-data-structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.InserttionSort" />
       <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.App (2)" />
-      <item itemvalue="Application.App (3)" />
+      <item itemvalue="Application.QuickSortApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.QuickSortApp" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InserttionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -127,43 +141,51 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SelectionSort code" />
+    <option name="LAST_COMMIT_MESSAGE" value="SelectionSort code" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599140853729">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1599140853729" />
+    <state x="570" y="222" key="CommitChangelistDialog2" timestamp="1599319584884">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="570" y="222" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1599319584884" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1599141406090">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1599141406090" />
-    <state width="1310" height="357" key="GridCell.Tab.0.bottom" timestamp="1599286806723">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1848" height="390" key="GridCell.Tab.0.bottom" timestamp="1599395342569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815880" />
     <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
-    <state width="1138" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599207769792" />
-    <state width="1310" height="357" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599286806723" />
-    <state width="1310" height="357" key="GridCell.Tab.0.center" timestamp="1599286806723">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1848" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599395342569" />
+    <state width="2217" height="355" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599319731357" />
+    <state width="1848" height="390" key="GridCell.Tab.0.center" timestamp="1599395342569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815879" />
     <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
-    <state width="1138" height="193" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599207769792" />
-    <state width="1310" height="357" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599286806723" />
-    <state width="1310" height="357" key="GridCell.Tab.0.left" timestamp="1599286806723">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1848" height="390" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599395342569" />
+    <state width="2217" height="355" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599319731356" />
+    <state width="1848" height="390" key="GridCell.Tab.0.left" timestamp="1599395342569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815879" />
     <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
-    <state width="1138" height="193" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599207769792" />
-    <state width="1310" height="357" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599286806723" />
-    <state width="1310" height="357" key="GridCell.Tab.0.right" timestamp="1599286806723">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1848" height="390" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599395342569" />
+    <state width="2217" height="355" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599319731356" />
+    <state width="1848" height="390" key="GridCell.Tab.0.right" timestamp="1599395342569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.736/1366.0.1920.1050@0.0.1366.736" timestamp="1599144815880" />
     <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1599151268287" />
-    <state width="1138" height="193" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599207769792" />
-    <state width="1310" height="357" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599286806723" />
+    <state width="1848" height="390" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599395342569" />
+    <state width="2217" height="355" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599319731356" />
     <state width="1323" height="307" key="GridCell.Tab.1.bottom" timestamp="1599151268850">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -188,11 +210,11 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1599141448390" />
-    <state x="711" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1599282589722">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="533" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1599381973633">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1599154030194" />
-    <state x="533" y="273" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599203111394" />
+    <state x="533" y="273" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599381973633" />
     <state x="711" y="368" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599282589722" />
     <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599199871467">
       <screen x="0" y="0" width="1366" height="736" />

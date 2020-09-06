@@ -1,6 +1,9 @@
 
-V	java:S125"<This block of commented-out lines of code should be removed.(ş§¯úÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(­óÅ¤
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö´ùŠúÿÿÿÿ8¨¿úæÅ.
+]	java:S125"<This block of commented-out lines of code should be removed.(î÷„¿ûÿÿÿÿ8àæÅ.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÑ›”úÿÿÿÿ
-N	java:S106
-"9Replace this use of System.out or System.err by a logger.(‰ä¸¥
+N
+java:S1144$"1Remove this unused private "binarySearch" method.(Ïêëş8Ù¦æÅ.
+Q	java:S125+"<This block of commented-out lines of code should be removed.(­óÅ¤
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü‘Š²8«†øåÅ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûäÁ†8ÎÂôæÅ.

@@ -1,11 +1,11 @@
 
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(‚ÒÑ¼8«‚ÈÁÅ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(à›§œşÿÿÿÿ8ÂÎÁÅ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™Ø’†øÿÿÿÿ8ÇÉ‚ÁÅ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(û±˜ıÿÿÿÿ8ŞÏÑåÅ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÂŞû¥ûÿÿÿÿ8ŞÏÑåÅ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‚ÒÑ¼8ŞÏÑåÅ.
 Q
 java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8“ÑÍÁÅ.
-Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ÊÚ¬ıÿÿÿÿ8§ˆ±ÁÅ.
-X	java:S125"<This block of commented-out lines of code should be removed.(êÉêÕ8ĞÙ„ÁÅ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(™Ø’†øÿÿÿÿ8ÇÉ‚ÁÅ.
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÂŞû¥ûÿÿÿÿ8êÒÆÁÅ.
-]	java:S125"<This block of commented-out lines of code should be removed.(´îÔ’üÿÿÿÿ8ğ§ÓÁÅ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(ğŒúÀúÿÿÿÿ8ÂÎÁÅ.
+]	java:S125"<This block of commented-out lines of code should be removed.(´îÔ’üÿÿÿÿ8ŞÏÑåÅ.
+X	java:S125"<This block of commented-out lines of code should be removed.(êÉêÕ8ŞÏÑåÅ.
