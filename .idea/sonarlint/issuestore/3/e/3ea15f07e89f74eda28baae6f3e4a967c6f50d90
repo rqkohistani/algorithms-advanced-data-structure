@@ -1,0 +1,23 @@
+
+X	java:S125)"<This block of commented-out lines of code should be removed.(óŠØõ8ÒÅ•ŞÈ.
+]	java:S125<"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÒÅ•ŞÈ.
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(À–ÄÆøÿÿÿÿ8ÒÅ•ŞÈ.
+]	java:S125P"<This block of commented-out lines of code should be removed.(şÇ€òıÿÿÿÿ8ÒÅ•ŞÈ.
+]	java:S1256"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÒÅ•ŞÈ.
+X	java:S125S"<This block of commented-out lines of code should be removed.(Ú°à¬8ÒÅ•ŞÈ.
+X
+java:S1854"6Remove this useless assignment to local variable "i2".(˜•ËÕøÿÿÿÿ8ÒÅ•ŞÈ.
+X	java:S125"<This block of commented-out lines of code should be removed.(†×„è8ÒÅ•ŞÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(şÊÓ¬8ÒÅ•ŞÈ.
+X	java:S125E"<This block of commented-out lines of code should be removed.(ÅÄà³8ÒÅ•ŞÈ.
+]	java:S125C"<This block of commented-out lines of code should be removed.(ÄÒ¸Êÿÿÿÿÿ8ÒÅ•ŞÈ.
+]	java:S125-"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÒÅ•ŞÈ.
+]	java:S125"<This block of commented-out lines of code should be removed.(·Û»Şûÿÿÿÿ8ÒÅ•ŞÈ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ÒÅ•ŞÈ.
+]	java:S125/"<This block of commented-out lines of code should be removed.(í‘¢¥ùÿÿÿÿ8ÒÅ•ŞÈ.
+X	java:S125>"<This block of commented-out lines of code should be removed.(ïà¡”8ÒÅ•ŞÈ.
+X	java:S125"<This block of commented-out lines of code should be removed.(áƒÉ8ÒÅ•ŞÈ.
+X	java:S125H"<This block of commented-out lines of code should be removed.(Ú°à¬8ÒÅ•ŞÈ.
+I
+java:S1481"'Remove this unused "i2" local variable.(˜•ËÕøÿÿÿÿ8ÒÅ•ŞÈ.
